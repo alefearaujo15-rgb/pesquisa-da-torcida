@@ -1,0 +1,1 @@
+.payment-box{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:20px 0;padding:15px 16px;border:1px solid rgba(37,215,244,.28);border-radius:12px;background:rgba(37,215,244,.07);color:#c1d1e4;font-size:13px}.payment-box strong{color:var(--green);font:800 27px 'Barlow Condensed';white-space:nowrap}
